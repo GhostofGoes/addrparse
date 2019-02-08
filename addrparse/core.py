@@ -20,7 +20,6 @@ from pathlib import Path
 from typing import Set, Dict
 
 
-# TODO: python 3.6 only? (fstrings, better pathlib, variable annotations, etc.)
 def to_strings():
     pass
 

@@ -1,2 +1,5 @@
 # addrparse
-Generates normalized host addresses from disparate inputs
+Pure-Python library that generates normalized host addresses from disparate 
+inputs. 
+
+Requires Python 3.6+
